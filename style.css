@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 10px;
+}
+
+ul {
+    justify-content: left;
+}
